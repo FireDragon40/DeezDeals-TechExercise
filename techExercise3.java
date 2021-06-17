@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.io.IOException;
 import java.util.Scanner;
 
+//This is an Alfred edit
 
 public class techExercise3 {
     public static void main(String[] args) {
