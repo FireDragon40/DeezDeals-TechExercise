@@ -13,6 +13,9 @@ public class techExercise3 {
         ArrayList<String> a = new ArrayList<String>();
 
         Scanner scan = new Scanner(System.in);
+		
+		System.out.println("This is Erik's comment");
+		
         System.out.println("What website would you like to web scrape?");
         String input = scan.next();
         System.out.println("How deep would you like to scrape?");
