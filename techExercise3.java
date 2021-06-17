@@ -12,7 +12,6 @@ public class techExercise3 {
     public static void main(String[] args) {
 
         ArrayList<String> a = new ArrayList<String>();
-
 		System.out.println("This is the Jose comment");
         Scanner scan = new Scanner(System.in);
         System.out.println("What website would you like to web scrape?");
