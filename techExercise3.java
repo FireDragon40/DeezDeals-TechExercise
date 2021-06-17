@@ -13,6 +13,7 @@ public class techExercise3 {
 
         ArrayList<String> a = new ArrayList<String>();
 
+		System.out.println("This is the Jose comment");
         Scanner scan = new Scanner(System.in);
 		
 		System.out.println("This is Erik's comment");
